@@ -9,7 +9,7 @@
 
 ##### 회원가입 페이지
 
-![image-20200704000412466](/Users/beomju/Library/Application Support/typora-user-images/image-20200704000412466.png)
+<img width="856" alt="스크린샷 2020-07-04 오전 12 04 04" src="https://user-images.githubusercontent.com/49308628/86481248-9c154e80-bd8a-11ea-8b36-7a3cfb6fbb5b.png" style="zoom:67%;"   >
 
 ##### 로그인 후 페이지
 
